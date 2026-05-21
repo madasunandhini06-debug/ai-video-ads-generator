@@ -41,7 +41,7 @@ A full-stack web application that generates AI-based video ads in real-time usin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rakeshrakhi9392/ai-video-ads-generator.git
+git clone https://github.com/madasunandhini06-debug/ai-video-ads-generator.git
 cd ai-video-ads-generator
 
 2. Install Dependencies
@@ -93,7 +93,7 @@ Ensure Akool and Stripe APIs are configured for production.
 
 ## 👨‍💻 Author
 
-madasu rakesh
+madasu nandhini
 
 📧 Reach out for collaboration or feedback!
 
